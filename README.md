@@ -12,11 +12,11 @@
 
 ### For example, in the following image you can see how the "Enter State" filter is used to filter only the rows of the State of Florida.
 
-![1](https://raw.githubusercontent.com/jjgomezg17/PyBer_Analysis/main/Resources/Images/1.png)
+![1](https://github.com/jjgomezg17/UFOs/blob/main/Resources/Images/1.png)
 
 ### However, you can use more than one filter at the same time, for example, as can be seen in the following image, you can see the use of the City and State filters. You only have to follow the example provided in the box to complete each filter to be able to make correct use of these and the filtered database will automatically appear.
 
-![2](https://raw.githubusercontent.com/jjgomezg17/PyBer_Analysis/main/Resources/Images/1.png)
+![2](https://github.com/jjgomezg17/UFOs/blob/main/Resources/Images/2.png)
 
 ## Summary
 
